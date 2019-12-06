@@ -1,10 +1,10 @@
-package com.anz.advent;
+package studio.coffeesocial.advent;
 
-import com.anz.advent.days.DayOne;
-import com.anz.advent.days.DayThree;
-import com.anz.advent.days.DayTwo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import studio.coffeesocial.advent.days.DayOne;
+import studio.coffeesocial.advent.days.DayTwo;
+import studio.coffeesocial.advent.days.DayThree;
 
 public class Main {
 

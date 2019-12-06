@@ -1,4 +1,4 @@
-package com.anz.advent.days;
+package studio.coffeesocial.advent.days;
 
 import java.util.List;
 
